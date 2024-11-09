@@ -1,14 +1,17 @@
 {
 	"cSpell.words": [
-		"daisyui",
-		"fatemeh",
-		"kinde",
-		"lucide",
-		"nextjs",
-		"tailwindcss",
-		"Toggeltheme",
-		"Toggletheme",
-		"uploadthing",
-		"zod"
-	]
+  "clsx",
+  "Configurator",
+  "daisyui",
+  "fatemeh",
+  "kinde",
+  "lucide",
+  "nextjs",
+  "tailwindcss",
+  "Toggeltheme",
+  "Toggletheme",
+  "updatedconfiguration",
+  "uploadthing",
+  "zod"
+ ]
 }
